@@ -1,0 +1,9 @@
+{
+  "name": "software",
+  "compatibility_date": "2026-11-23",
+  "observability": { "enabled": true },
+  "assets": {
+    "directory": "./server/public",
+    "not_found_handling": "single-page-application"
+  }
+}
